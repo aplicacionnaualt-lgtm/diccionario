@@ -63,13 +63,13 @@ Dónde están las llaves	s	u
 Voy a limpiar la casa	s	r
 Necesito ordenar mi cuarto	s	u
 Quién lavó los platos	s	u
-Voy a tender la cama	s	
-Cierra la puerta, por favor	s	
-Abre la ventana	s	
-Apaga la luz	s	
-Enciende el ventilador	s	
-Hay algo de comer	s	
-Cuánto cuesta	s	
+Voy a tender la cama	s	ur
+Cierra la puerta, por favor	s	ur
+Abre la ventana	s	ru
+Apaga la luz	s	u
+Enciende el ventilador	s	ru
+Hay algo de comer	s	ur
+Cuánto cuesta	s	u
 Tiene descuento	s	
 Donde vive	s	
 Me lo llevo	s	

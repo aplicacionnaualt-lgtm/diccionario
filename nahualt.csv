@@ -244,8 +244,8 @@ pantalla	s	url
 Alumno	s	url
 Recojedor	s	url
 Borrador	s	url
-Puerta	s	
-Escoba	s	
+Puerta	s	orl
+Escoba	s	url
 Libro 	s	
 cortina	ss	
 pared	s	

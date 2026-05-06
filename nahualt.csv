@@ -262,10 +262,11 @@ Baños	s	url
 Dirección 	s	url
 Administracion	s	url
 Cancha	s	url
-Salon	s	
-Cosina	s	
-Huerto	s	
-Jardin	s	
-Invernadero	s	
-Jardin	s	
-Estacionamiento	s	
+Salon	s	url
+Cosina	s	url
+Huerto	s	url
+Jardin	s	url
+Invernadero	s	url
+Jardin	s	url
+Estacionamiento	s	url
+		url
